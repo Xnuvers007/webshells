@@ -1,3 +1,10 @@
+# Usage (Penggunaan)
+
+linux/termux = <code>python3 main.py</code> <br />
+windows = ```python main.py```
+
+![GAMBARANNYA](https://github.com/Xnuvers007/webshells/assets/62522733/3a6be194-a486-4188-915f-ba32bcece6e3)
+
 # English
 # webshells Scanner
 The provided code is a Python script that performs a deep scan on a given website to detect potential webshells and backdoors. The script checks both JavaScript and PHP code for suspicious patterns, whether obfuscated or not. It provides information about the server, status code, cookies, content type, date, X-Frame-Options, and X-XSS-Protection headers of the website.
