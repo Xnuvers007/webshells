@@ -1,0 +1,4 @@
+jsbeautifier
+requests
+dnspython
+beautifulsoup4
