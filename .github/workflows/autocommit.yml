@@ -27,7 +27,7 @@ jobs:
           echo "Log updated at: $DATE (WIB)" > log.md
           
           # Add and commit the changes
-          git add log.md
+          git add .
           git config user.name 'Xnuvers007'
           git config user.email 'indra111.ida@gmail.com'
           git commit -m "Jangan Lupa Follow @indradwi.25"
